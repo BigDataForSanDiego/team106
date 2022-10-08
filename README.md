@@ -62,8 +62,9 @@ The data will have the following information:
 
 Hurt or sick people who need a medical service or pharmaceutical drug can use our app to compare the average cost of health specialists and medications  between health service locations and pharmacies. 
 
-# Customer
-Meet Sam Clark
-
-
-
+# Customer Persona
+Meet James Franklin Timothy
+- Has a chronic illness
+- Lower income than most
+- Doesn't have great insurance
+- Needs medication to survive but is currently upset having to pay so much
