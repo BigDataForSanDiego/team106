@@ -1,8 +1,8 @@
 ### 2022 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 106
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: Hacking Homies 2
   
 #### Your team’s hackathon idea in One sentence:
 ##### `YOUR ONE SENTENCE HERE`
