@@ -10,8 +10,8 @@ Hacking Homies 2
 Our application will provide average pricing at different medical facilities for medical procedures, lab tests, and pharmaceuticals so people can make an informed financial decision about where to receive medical services.
 
 #### A visual
-![homepage](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/homepage/homepage-idea.png)
-![barchart](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/barchart/barchart.png)
+![homepage](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png)
+![barchart](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/barchart/barchart.png)
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022")  
 
