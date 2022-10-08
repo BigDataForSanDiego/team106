@@ -1,0 +1,19 @@
+Basic Metabolic Panel,0,$244.00
+"Blood Gas Analysis, including 02 saturation",1,
+"Complete Blood Count, automated",2,$108.00
+"Complete Blood Count, with differential WBC, automated",3,$110.00
+Comprehensive Metabolic Panel,4,$264.00
+"Creatine Kinase (CK), (CPK), Total",5,$98.00
+Lipid Panel,6,$117.00
+Partial Thromboplastin Time,7,$135.00
+Prothrombin Time,8,$103.00
+Thyroid Stimulating Hormone,9,$153.00
+"Troponin, Quantitative",10,$231.00
+"Urinalysis, without microscopy",11,$83.00
+"Urinalysis, with microscopy",12,$108.00
+"CT Scan, Abdomen, with contrast",13,"$4,442.00"
+"CT Scan, Head or Brain, without contrast",14,"$3,059.00"
+"CT Scan, Pelvis, with contrast",15,"$2,945.00"
+"Mammography, Screening, Bilateral",16,$634.00
+"MRI, Brain, without contrast, followed by contrast",17,"$7,066.00"
+"X-Ray, Chest, two views",18,$564.00
