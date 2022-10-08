@@ -12,7 +12,7 @@ Our application will provide average pricing at different medical facilities for
 #### A visual
 <!-- ![homepage](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png) -->
 
-<img height="50%" width="50%" alt="Screenshot of application" src="https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png">
+<img height="50%" width="50%" alt="Screenshot of application" src="https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/pages/PROCEDURE PAGE.png">
 
 <!-- ![barchart](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/barchart/barchart.png) -->
 
