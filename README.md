@@ -56,9 +56,9 @@ The data will have the following information:
 - Count
 
 # Problem Statement
--Who: Hurt or sick people
--What is the pain point: The high cost of medical/drug services
--What prevents the problem from being solved: The inability/uneasy method of comparing prices between medical/drug services
+- Who: Hurt or sick people
+- What is the pain point: The high cost of medical/drug services
+- What prevents the problem from being solved: The inability/uneasy method of comparing prices between medical/drug services
 
 Hurt or sick people who need a medical service or pharmaceutical drug can use our app to compare the average cost of health specialists and medications  between health service locations and pharmacies. 
 
