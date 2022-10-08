@@ -12,11 +12,11 @@ Our application will provide average pricing at different medical facilities for
 #### A visual
 <!-- ![homepage](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png) -->
 
-<img height="75%" width="75%" alt="Screenshot of application" src="https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png">
+<img height="50%" width="50%" alt="Screenshot of application" src="https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png">
 
 <!-- ![barchart](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/barchart/barchart.png) -->
 
-<img height="75%" width="75%" alt="Barchart" src="https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/barchart/barchart.png">
+<img height="50%" width="50%" alt="Barchart" src="https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/barchart/barchart.png">
 
 <!-- ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022") 
 
