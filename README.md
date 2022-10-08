@@ -29,7 +29,7 @@ Application which shows average pricing for medical procedures, lab tests, and p
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
 #### Team Coordinator GitHub Username:
-ezduzit13
+ezduzit-13
 
 #### Team Members 
 - Micah Hacker : mphzz
@@ -38,5 +38,5 @@ ezduzit13
 - Richard Zarate : richardzarate
 - Alastair Raymond: araymondmiracosta
 - Tyler Deaguero : detourious
-- Edgar Zatarain : ezduzit13
+- Edgar Zatarain : ezduzit-13
 
