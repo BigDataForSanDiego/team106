@@ -10,12 +10,17 @@ Hacking Homies 2
 Our application will provide average pricing at different medical facilities for medical procedures, lab tests, and pharmaceuticals so people can make an informed financial decision about where to receive medical services.
 
 #### A visual
-![homepage](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png)
-![barchart](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/barchart/barchart.png)
+<!-- ![homepage](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png) -->
 
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022")  
+<img height="75%" width="75%" alt="Screenshot of application" src="https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/homepage/homepage-idea.png">
 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
+<!-- ![barchart](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/barchart/barchart.png) -->
+
+<img height="75%" width="75%" alt="Barchart" src="https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/assets/barchart/barchart.png">
+
+<!-- ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022") 
+
+<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true">  -->
 
 #### Hackathon Theme(s) (check a box(es))
 - [ ] Artificial Intelligence/Machine Learning 
