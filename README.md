@@ -28,5 +28,12 @@
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members 
+- Micah Hacker : mphzz
+- Ariyan Perdue : Ariyan-Perdue
+- Dani Fukunaga : dkfukunaga 
+- Richard Zarate : richardzarate
+- Alastair Raymond: araymondmiracosta
+- Tyler Deaguero : detourious
+- Edgar Zatarain : ezduzit13
 
