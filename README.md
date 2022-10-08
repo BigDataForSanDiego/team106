@@ -68,3 +68,4 @@ Meet James Franklin Timothy
 - Lower income than most
 - Doesn't have great insurance
 - Needs medication to survive but is currently upset having to pay so much
+![1000_F_454365966_42PyrmXOrYiacrwZKgABjwh2soSvmxpS](https://user-images.githubusercontent.com/109570379/194727221-fcfb0d0d-28e0-49bc-92dc-8973ba9a6476.jpg)
