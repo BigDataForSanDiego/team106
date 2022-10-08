@@ -7,7 +7,7 @@
 Hacking Homies 2
   
 #### Your team’s hackathon idea in One sentence:
-We are providing an application which shows average pricing for medical procedures, lab tests, and pharmaceuticals at different medical facilities so that people can make informed decisions about where to receive medical services. 
+Our application will provide average pricing at different medical facilities for medical procedures, lab tests, and pharmaceuticals so people can make an informed financial decision about where to receive medical services.
 
 #### A visual
 ![barchart](https://raw.githubusercontent.com/BigDataForSanDiego/team106/main/barchart/barchart.png)
