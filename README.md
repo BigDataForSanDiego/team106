@@ -4,7 +4,7 @@
 106
 
 #### Team Name:
-Hacking Homies 2
+OG Hacking Homies
   
 #### Your team’s hackathon idea in One sentence:
 Our application will provide average pricing at different medical facilities for medical procedures, lab tests, and pharmaceuticals so people can make an informed financial decision about where to receive medical services.
