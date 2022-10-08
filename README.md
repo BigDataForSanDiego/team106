@@ -7,7 +7,7 @@
 Hacking Homies 2
   
 #### Your team’s hackathon idea in One sentence:
-Application which shows average pricing for medical procedures, lab tests and pharmaceuticals.
+Application which shows average pricing for medical procedures, lab tests, and pharmaceuticals.
 
 
 #### A visual
