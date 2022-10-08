@@ -41,7 +41,7 @@ ezduzit-13
 
 #### Team Members 
 - Micah Hacker : mphzz
-- Ariyan : Ariyan-Perdue
+- Ariyan Perdue : Ariyan-Perdue
 - Dani Fukunaga : dkfukunaga 
 - Richard Zarate : richardzarate
 - Alastair Raymond: araymondmiracosta
