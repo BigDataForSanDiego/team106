@@ -43,7 +43,7 @@ ezduzit-13
 - Micah Hacker : mphzz
 - Ariyan : Ariyan-Perdue
 - Dani Fukunaga : dkfukunaga 
-- Richard Zarate : richardzarat
+- Richard Zarate : richardzarate
 - Alastair Raymond: araymondmiracosta
 - Tyler Deaguero : detourious
 - Edgar Zatarain : ezduzit-13
